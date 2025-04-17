@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>هنرستان امیرکبیر قلعه‌گنج</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>هنرستان فنی و حرفه‌ای امیرکبیر</h1>
+    <p>شهرستان قلعه‌گنج</p>
+  </header>
+
+  <section class="about">
+    <h2>درباره مدرسه</h2>
+    <p>این هنرستان دارای رشته‌های شبکه و نرم‌افزار و الکتروتکنیک می‌باشد. پایه‌های تحصیلی: دهم، یازدهم و دوازدهم.</p>
+    <p>شماره تماس مدیر: 09123456789</p>
+  </section>
+
+  <section class="classes">
+    <h2>کلاس‌ها</h2>
+    <ul>
+      <li>دهم - شبکه و نرم‌افزار</li>
+      <li>یازدهم - الکتروتکنیک</li>
+      <li>دوازدهم - شبکه و نرم‌افزار</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>طراحی شده توسط احمدرضا ♥</p>
+  </footer>
+</body>
+</html>
+ss
